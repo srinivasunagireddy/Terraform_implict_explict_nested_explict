@@ -1,5 +1,5 @@
 resource "aws_instance" "Prod_1" {
-  ami                         = "ami-0dcc1e21636832c5d"
+  ami                         = "ami-0ecb62995f68bb549"
   instance_type               = "t3.micro"
   associate_public_ip_address = true
   availability_zone           = "us-east-1a"
