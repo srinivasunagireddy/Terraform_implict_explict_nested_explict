@@ -11,3 +11,4 @@ resource "aws_route_table" "RT_Terra" {
     Service = "Terraform"
   }
 }
+
